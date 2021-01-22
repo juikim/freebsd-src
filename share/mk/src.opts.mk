@@ -157,6 +157,7 @@ __DEFAULT_YES_OPTIONS = \
     NVME \
     OFED \
     OPENSSL \
+    OPENSSL_KTLS \
     PAM \
     PF \
     PKGBOOTSTRAP \

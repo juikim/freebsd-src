@@ -1,0 +1,3 @@
+.\" $FreeBSD$
+Setting this variable will prevent the kernel TLS support from being built
+with OpenSSL.
